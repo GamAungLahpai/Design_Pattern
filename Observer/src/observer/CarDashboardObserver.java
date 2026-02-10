@@ -1,3 +1,5 @@
+package observer;
+
 public class CarDashboardObserver implements WeatherObserver {
 
     private int previousTemperature;

@@ -1,3 +1,5 @@
+package observer;
+
 public class PhoneAppObserver implements WeatherObserver {
 
     private final String ownerName;

@@ -1,3 +1,5 @@
+package observer;
+
 public class Main {
     public static void main(String[] args) {
         WeatherStation station = new WeatherStation(-10, 40);

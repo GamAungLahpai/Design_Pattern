@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Abstract_Factory/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Factory_Method/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Composite/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Observer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Singleton/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

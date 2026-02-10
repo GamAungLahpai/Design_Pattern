@@ -1,3 +1,5 @@
+package observer;
+
 public class BillboardObserver implements WeatherObserver {
 
     private final String location;
